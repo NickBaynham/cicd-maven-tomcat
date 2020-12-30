@@ -8,6 +8,17 @@ class CicdpipelineApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("All Clear!");
+	}
+
+	@Test
+	void myUnitTest() {
+		System.out.println("It Passed!");
+	}
+
+	@Test
+	void anotherGreatTest() {
+		System.out.println("Again it is passing, awesome!");
 	}
 
 }
