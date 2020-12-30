@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cicdpipeline</name>
 	<description>Project 1: CI/CD Pipeline with Maven and Tomcat</description>
-
+	<packaging>war</packaging>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
